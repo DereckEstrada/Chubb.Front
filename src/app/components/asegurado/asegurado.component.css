@@ -1,0 +1,25 @@
+.search {
+    background-color: #bcd1d8 !important;
+    border: none;
+    color: black;
+    height: 39px;
+    width: 75px;
+}
+.cedulaInput{
+    max-width: 350px;
+}
+.register{
+    background-color: #bcd1d8 !important;
+    border: none;
+    color: black;
+    height: 39px;
+    width: 250px;  
+}
+.alert{
+    background-color: #bcd1d8 !important;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
